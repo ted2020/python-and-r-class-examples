@@ -1,18 +1,24 @@
 # python and r class examples
 
-web scrapping
+## natural language processing
 
-selenium
+#### web scrapping
+#### selenium
+#### rvest
+#### beautifulsoup
+#### dplyr
+#### XML
+#### httr
 
-rvest
+### Emergency - 911 Calls from Kaggle
+### instagram comments
+### reddit comments
+### youtube comments
 
-beautifulsoup
-
-dplyr
-
-XML
-
-httr
+#### stringr
+#### wordcloud
+#### text2vec
+#### tm
+#### NLP
 
 
-Emergency - 911 Calls from Kaggle
